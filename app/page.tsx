@@ -16,7 +16,6 @@ export default function LoginPage() {
           <button type="button" className="btn btn-outline-success">login</button>
           </div>
       </div>
-      <h1>aum</h1>
     </div>
   )
 }
